@@ -1,4 +1,4 @@
 # WSJwsj2005.github.io 
 
-[test](test/)
+[test](test)  
 [**Mushroom**](forioi.com)
