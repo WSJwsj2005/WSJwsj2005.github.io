@@ -1,3 +1,3 @@
 # WSJwsj2005.github.io
 
-[test](test/)
+[t*e***s**t](test/)
